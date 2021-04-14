@@ -1,0 +1,82 @@
+ /* The following command is  for displaying text in "sans serif" font*/
+ 
+ h1 {
+     font-family: "sans serif";
+     border: 5px solid black;
+     color: whitesmoke;
+     background-color: violet;
+ }
+ 
+ body {
+     background-color:;
+ }
+ /* The following command is  for displaying text in white and background in black colour when hovered over*/
+ 
+ h1:hover {
+     color: black;
+     background: #9400d3;
+ }
+ /* The following command is  for displaying text in 1px thick  solid balck coloured box*/
+ 
+ .border {
+     border: 1px solid black;
+ }
+ 
+ .back {
+     background-color: blue;
+ }
+ 
+ .align_left {
+     margin-left: 100px;
+ }
+ 
+ h2 {
+     text-align: 20px;
+ }
+ 
+ button:hover {
+     color: purple;
+     background: white;
+ }
+ .back {
+     background-color: white;
+ }
+  .para {
+     color: white;
+	 font-size:"80";
+ }
+ .para1 {
+     color: white;
+	 font-size:"40";
+ }
+ .bar {
+     background-color: #9400d3;
+ }
+ .para2 {
+     color: white;
+ }
+   .about {
+	 background-color:#eeeeee;
+     color: black;
+	 font-size:"40";
+ }
+  .about1 {
+	 background-color: purple;
+    
+ }
+ .button1 {
+	 background-color:#27b316;
+	 margin-left:900px;
+ }
+ .button2 {
+	 background-color:#27b316;
+	 margin-left:860px;
+ }
+ .button3 {
+	 background-color:#e98aff;
+	 
+ }
+ .about1 {
+	 background-color: purple;
+    
+ 
