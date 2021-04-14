@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="utf-8">
+ <title>IET_MBCET</title>
+ <link href="styles.css" rel="stylesheet" type="text/css" media="all">
+</head>
+
+<body color="#e8f4f8" link="#000" alink="#017bf5" vlink="#000">
+<div background-color ="black">
+ <br />
+ <div> 
+ <h3 align ="centre">
+ 
+   <font  face="cinzel" size="4">
+   <div class="bar">
+	<br />
+	 <a href="IET_1.html" class="para1">~Welcome To IET-MBCET ON CAMPUS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href='IET_1.html' class="para2">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href='https://mbcet.ac.in/home/professional-socities/iet/' class="para2">ANNUAL REPORT</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href='https://instagram.com/ietmbcet?igshid=88riyf7yroci' class="para2">EVENTS & RECENT UPDATES</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href='#'class="para2">OUTREACH 150</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	 <a href='https://www.theiet.org/membership/' class="para2">JOIN IET</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href='IET1_login.html' class="para2">LOGIN</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	 <a href='IET_register.html'class="para2">CONTACT US</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	 <br /><br />
+ 	</font>
+	</div>
+ </div>
+<br /><br /><br /><br /><br /><br />	<br /><br />
+<div class="back" align="center">
+<img src="Logo.jpeg">
+</div>
+</div>
+ </h3>
+ 
+ <br /><br /><br /><br /><br />
+ <h1  class="para2"align="center">
+
+	<font face="Lato" color="white" >
+	ABOUT US
+ </h1>
+ <div class="back" align="center">
+<img class="about1" src="about1.jpeg">
+</div>
+ <div class="about">
+ <p>                                              We are the IET and we inspire, inform and influence the global engineering community to engineer a better world. As a diverse home across engineering and technology, we share knowledge that helps make better sense of the world in order to solve the challenges that matter. It’s why we are uniquely placed to champion engineering. <br /><br />
+ THE IET-MBCET ON CAMPUS CHAPTER was re-inaugurated on 23rd Aug’16, with 60 new Student members and 2 Faculty members from Dept. of EEE. Since then, the chapter has grown to be a driving force for many young aspiring engineers in and around Trivandrum, providing quality opportunities. The Faculty members have increased to 6 and Ms. Jomole Joseph (Asst. Professor) is the On Campus Facilitator of the chapter. The chapter has around 200 members from EEE, ECE, CSE and ME streams and is an integral part of IET Kanyakumari Local Network since its induction.
+The chapter has been very active and successful in conducting technical workshops, talks by eminent personalities, internships, techno-cultural fests, etc.
+ </p>
+ </div>
+ <h1  class="para2"align="center">
+
+	<font face="Lato" color="white" >
+	Meet The Team
+ </h1>
+<div class="back" align="center">
+<br/>
+<img class="about1" src="grouppic.jpeg">
+</div>
+</div>
+
+ <div class="about">
+ <p>  The IET MBCET ON-CAMPUS team is  a vibrant orgnaization led by Asst. Professor JOMOLE JOSEPH who is the On Campus facilitator.The core team consists of the 6 members who are assited by 
+ the working commitee members from all branches and different years while the privelage of core team is open to only the third year students.
+ </p>
+ </div>
+ <br /><br /><br /><br /><br />
+ <h1  class="para2"align="center">
+
+	<font face="Lato" color="white" align ="center" >
+	Guess What?? We are turning 150 Next Year !!!
+<br />
+ </h1>
+ <div class="back" >
+ <img src="MOU1.jpg">
+</div>
+
+ <div class="about">
+ <p>                                              MOU SIGNING OF MBCET WITH VYDYUTHI ENERGY SERVICES
+On 3rd December 2020, the IET MBCET On Campus crossed a new milestone, with the signing of the MoU between MBCET and Vydyuthi Energy Services for the collaborative venture of IET Outreach 150.
+Dr. Abraham T Mathew, Principal MBCET and Ms. Indira Babu, MD of Vydyuthi Energy Services exchanged the signed documents marking the start of our collaboration with Alumni start-ups towards shaping a better and brighter future.
+For celebrating the 150th year of IET, the UK headquarters had opened a Global Engagement Fund asking proposals from all over the world for events pertaining to Sustainability.
+Based on that theme, our Student chapter had also submitted a proposal, called the IET Outreach 150. It is an initiative to reach out to the community to extend our skills as well as to learn how the engineering fraternity can make an impact or change, for a better and sustainable living among those in need.
+The IET MBCET On Campus proposal on Outreach 150 is one among the 4 that got selected from India.
+We are proud to collaborate with Vydyuthi Energy Services (VES) led by its Founder and our Alumni, Mr. Anoop Babu, (EEE 2003-07) for this venture, as our mutual vision is to work towards the UN Sustainable Development Goals. The VES company is listed in United Nations Women Empowerment Program thus ensuring official support of UN in all their activities oriented towards enhancing women capabilities.
+The IET MBCET family wholeheartedly thank everyone for their support.
+ </p>
+ </div>
+ <button class="button2"><br/>Already Excited About OUTREACH 150?<br/> <br/>This is just the beginning!!!<br/><br/></button>
+ <br/><br/>
+<a href="outreachregister.html"><button  class="button1"><br/>Be Part Of OUTREACH 150<br/><br/></button></a>
+<h1  class="para2"align="center">
+
+	<font face="Lato" color="white" >
+	The Family Is Even Bigger ,So Are Our Events 
+ </h1>
+<div class="back" align="center">
+<br/>
+<img class="about1" src="igniet.jpg">
+</div>
+</div>
+
+ <div class="about">
+ <p>"Learn to explore, explore to invent and invent to bring changes"
+
+IGNIET is IET's flagship event for MBCET freshmen. It was conceived out of the notion that a spark has to
+ be ignited within the hearts of our students in order for them to be the change-makers of tomorrow. 
+ We cordially invite all the first year students to IGNIET . Welcoming you is an occasion of joy, 
+ celebration, and harmony for us.
+ The one-day event which witnesses a power talk, two hands-on sessions and lots of fun events. IET MBCET.<br/<br/>
+ </p>
+<p> IGNIET'20, the flagship event of IET MBCET for College 1st years, was conducted on Feb 29th successfully. We had 43 participants from all branches.
+The program started with an Ice breaking session, followed by a talk by Guest Speaker-Mr. Nithin Jose, entrepreneur, blogger and RACE IAS Coach, motivating the 
+students to explore the resources around them. He shared with them a lot of information regarding internships, competitive exams, etc. This talk was followed by Hands On
+ session making an Ornithopter, Reverse engg activity, IET Talk handled 
+by Mr. Adhitya- IETKKLN YP Secretary and Ms. Ashwini - IET MBCET Ex Chairman.<br/></br>
+</p>
+The chief guest was Nithin Jose
+
+Entrepreneur, educator. Blogger. Digital media Geek. Co-founder Race2IAS
+
+Indias first model civil service exam for school and college students. Kochi based company is 
+nurturing 50000+ civil service aspirants from Kerala, Delhi, Rajasthan and other 10 states 
+in India and gulf countries including Dubai, Qatar and Bahrain. Founder, KAS GURU provider of
+ Intensive coaching for Kerala Administrative service
+ exam utilising online resources. Loves blogging, Meeting people, Travelling, sharing Knowledge
+ The program ended with a fun event - tabloid and feedback session.
+ 
+ </p>
+ </div>
+ <br /><br /><br />
+ <div class="about1">
+ <br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='IET_register.html'><button ><br/>Contact Us<br/></br></button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button ><br/>Achievements<br/></br></button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://tinyurl.com/IETRegistration'><button ><br/>Be a part of IET-MBCET On Campus</br><br/></button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='IET_register.html'><button><br/>Queries<br/></br></button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.theiet.org/"'><button ><br/>Know More <br/></br></button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br/><br/>
+</body>
+</html>
